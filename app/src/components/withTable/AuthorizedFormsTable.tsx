@@ -17,7 +17,7 @@ type AuthorizedFormsTableProps = {
 
 enum AuthorizationFilterTypes {
   ALL = 'All',
-  CONCLUED = 'Conclued',
+  CONCLUDED = 'Concluded',
   PENDING = 'Pending',
 }
 
