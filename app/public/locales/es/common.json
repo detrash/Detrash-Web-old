@@ -14,13 +14,13 @@
   "plastic": "Plástico",
 
   "recycler": "Reciclador",
-  "hodler": "Hodler",
+  "hodler": "Parceiro",
   "waste_generator": "Generador de Resíduos",
 
   "submit_report_title": "Envíe su informe",
   "submit_report_description": "¡Envíe un formulario y gane algunos cRECYS!",
   "submit_report_button": "Enviar",
-  "not_allowed_submit_form": "No puede enviar un formulario siendo un Hodler",
+  "not_allowed_submit_form": "No puede enviar un formulario siendo un Parceiro",
 
   "table_show": "Muéstrame",
   "table_search": "Búsqueda...",
@@ -30,7 +30,7 @@
   "invoice": "Factura",
   "video": "Video",
 
-  "preffered_name": "Nombre Preferido",
+  "preffered_name": "Nombre Completo",
   "type_name": "Escriba su nombre",
   "phone_number": "Número de teléfono",
   "type_number": "Escriba su número de teléfono",

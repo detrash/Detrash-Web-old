@@ -13,14 +13,14 @@
   "paper": "Paper",
   "plastic": "Plastic",
 
-  "recycler": "Recycler",
-  "hodler": "Hodler",
+  "recycler": "Transforming waste",
+  "hodler": "Business partner",
   "waste_generator": "Waste Generator",
 
   "submit_report_title": "Submit your report",
   "submit_report_description": "Submit a form and earn some cRECYS!",
   "submit_report_button": "Submit",
-  "not_allowed_submit_form": "You can't submit a form being a Hodler",
+  "not_allowed_submit_form": "You can't submit a form being a Business Partner",
 
   "table_show": "Show",
   "table_search": "Search...",
@@ -30,7 +30,7 @@
   "invoice": "Invoice",
   "video": "Video",
 
-  "preffered_name": "Preferred Name",
+  "preffered_name": "Full Name",
   "type_name": "Type your name",
   "phone_number": "Phone Number",
   "type_number": "Type your phone number",
