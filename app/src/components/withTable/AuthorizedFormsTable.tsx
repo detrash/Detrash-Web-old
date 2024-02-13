@@ -77,7 +77,7 @@ const AuthorizedFormsTable: React.FC<AuthorizedFormsTableProps> = ({
     },
     {
       key: AuthorizationFilterTypes.CONCLUED,
-      label: t(AuthorizationFilterTypes.CONCLUED.toLocaleLowerCase()),
+      label: t(AuthorizationFilterTypes.CONCLUED?.toLocaleLowerCase()),
     },
     {
       key: AuthorizationFilterTypes.PENDING,
